@@ -186,6 +186,7 @@ nav h1, nav h2 {
 
 #logo, #gravatar {
   margin-bottom: 25px;
+  width: 150px;
 }
 
 #gravatar {
