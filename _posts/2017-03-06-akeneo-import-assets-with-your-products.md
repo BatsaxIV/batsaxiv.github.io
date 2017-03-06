@@ -41,7 +41,7 @@ This picture sums up all these actions:
 ![Akeneo configuration product with media import](/assets/posts/akeneo-import-media-product/all.png){:width="700px"}
 
 
-### If you have a lot of files *(you didn't see that coming right? :)*
+### If you have a lot of files *(you didn't see that coming right? :))*
 
 First, upload your images to your webserver in a dedicated folder.  
 Then in your CSV, reference those images (with the correct relative path).  
