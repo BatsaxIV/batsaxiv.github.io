@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Network | Static IP as a freelance
-category: vps, docker, linux
+category: network
 ---
 
 As a freelance developer, having a static IP is useful (for example, remote access to your client server), but relying on your own IPS is not the best option: maybe you can't have a static ip, what happen if you move or if your connection has problem...  
